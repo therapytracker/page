@@ -51,12 +51,12 @@ marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 # Includes an icon for each username you enter
 #
 social-links:
-  github:
-  facebook:
-  twitter:
-  pinterest:
-  instagram:
-  email:
+  github: test.com
+  facebook: test.com
+  twitter: test.com
+  pinterest: test.com
+  instagram: test.com
+  email: test.com
   youtube: # channel/<your_long_string> or <user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
